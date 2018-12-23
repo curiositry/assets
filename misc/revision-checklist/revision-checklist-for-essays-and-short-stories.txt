@@ -2,7 +2,7 @@
 
 ## Content
 
-- [ ] **Don’t waste the reader’s precious time on earth, or yours.** Why did you write the piece? Is what you’re trying to say worth saying? Does the piece say what you are trying to say. If you’re investing effort revising the piece, you’ve already ticked off this checkbox.
+- [x] **Don’t waste the reader’s precious time on earth, or yours.** Why did you write the piece? Is what you’re trying to say worth saying? Does the piece say what you are trying to say. If you’re investing effort revising the piece, you’ve already ticked off this checkbox.
 - [ ] **Make sure the piece has a positive emotional and/or intellectual effect on the reader**. If you write horror, you may _want_ to strike discord in the reader’s heartstrings — but even if the _content_ isn’t positive, the _piece_ should benefit the reader in some way. Otherwise, why would they bother to read it?
 - [ ] **Double check your logic:** implausibility loses readers faster than you can say _Hack Robinson_.
   - [ ] **Non-fiction**: check that your assumptions about the subject are correct, and that your conclusions follow logically from the starting point.
