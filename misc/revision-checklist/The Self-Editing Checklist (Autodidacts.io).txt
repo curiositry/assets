@@ -1,0 +1,44 @@
+# The Self-Editing Checklist
+
+## Content
+
+- [ ] **Don’t waste the reader’s precious time on earth, or yours.** Why did you write the piece? Is what you’re trying to say worth saying? Does the piece say what you are trying to say. If you’re investing effort revising the piece, you’ve already ticked off this checkbox.
+- [ ] **Make sure the piece has a positive emotional and/or intellectual effect on the reader**. If you write horror, you may _want_ to strike discord in the reader’s heartstrings — but even if the _content_ isn’t positive, the _piece_ should benefit the reader in some way. Otherwise, why would they bother to read it?
+- [ ] **Double check your logic:** implausibility loses readers faster than you can say _Hack Robinson_.
+  - [ ] **Non-fiction**: check that your assumptions about the subject are correct, and that your conclusions follow logically from the starting point.
+  - [ ] **Fiction**: check for plot holes, bad science (real or invented), handy coincidences that move the plot while the characters sit around and watch, and characters doing things that are out of character to move the plot.
+- [ ] **Check that the facts are, in fact, factual.** It saves a lot of embarrassment later on.
+- [ ] **Make it as easy as possible for the reader to understand what you’re saying**, and do your to best counter the effects of the [“Curse of Knowledge”](https://en.wikipedia.org/wiki/Curse_of_knowledge).
+- [ ] **Make sure the piece is complete** and gets across what you’re trying to communicate.
+	* [ ] **… and that the opening pulls the reader in**, arouses their curiosity, and makes them want to know more.
+	- [ ] **… and that the ending is strong**, and pulls in and resolves as many narrative threads as possible.
+
+
+## Structure
+
+- [ ] **Make sure the piece flows well**, and scene (fiction) or section (nonfiction) transitions are smooth and logical.
+- [ ] **Put first things first** so that the reader knows all they need to know to understand what they’re reading.
+- [ ] **Adjust paragraph and sentence length** to match the pace of the content.
+- [ ] **Cut needless words, sentences, paragraphs, and sections.**
+
+## Style
+
+- [ ] **Match tone to content.**
+- [ ] **Match pronouns to content**: Is it a personal narrative (_I_ did this, _I_ thought that)? A sermon (_you_ should do this, _you_ should do that)? A sermon masquerading as objective analysis (_one_ should do this, _one_ should think that)? As you have probably noticed, this is a sermon.
+- [ ] **Don’t be a showoff.** Showing off — whether with big words, excessive intellectualism, or beautiful but superfluous prose — gets in the way of good writing. Show off by _not_ showing off, and, instead, getting straight to the point.
+- [ ] **Towel off your attitudes.** Logic is more persuasive that ranting.
+- [ ] **Cut the parts that you’d be embarrassed to read aloud to your mother.**  Mother doesn’t have to _agree_ with it, or even like it, but it shouldn’t embarrass _you_ to read it to her. By writing even the most controversial pieces in such a way that you wouldn’t be embarrassed to read them aloud to your mother, you’ll probably reach a wider, _classier_ audience.
+- [ ] **Make sure the tone isn’t too dry or too wet.** The Buddhist idea of *The Middle Way* applies to writing, too. Neither stiff nor overly jocular, neither brusque nor logorrheic, good style is often almost indistinguishable from no style at all.
+- [ ] **Read it aloud, and rewrite the parts that sound unnatural.**
+
+## Polish
+
+- [ ] **Prefer short, strong, precise words** you know the exact meaning of. (Also: If you use a word the reader may not know without defining it, try to make it possible to infer its meaning from context.)
+- [ ] **Use passive voice deliberately.**
+- [ ] **Make sure modifiers serve a purpose.** (Adjectives, adverbs, qualifiers, etc.)
+    - [ ] **Tone down the superlatives and exclamation marks!** They are most often used as crutches to keep weak sentences from falling flat. If what you write is true, and your sentences are strong, you shouldn’t need to ram your point home.
+- [ ] **Use spell-check**. Defiantly a god idea.
+- [ ] **Run it through a grammar-checker** such as [LanguageTool](https://languagetool.org) (free, open-source) or [Grammarly](https://grammarly.com) (paid).
+- [ ] **Consider using a “prose linter”** such as [ProseLint](http://proselint.com) (free & open-source, available online and as editor plugin), [Write  Good](https://github.com/btford/write-good) (free & open-source, available as an editor plugin), [Hemingway Editor]() (freemium, available online and as desktop app), or similar.
+- [ ] **Format the piece** for its intended destination. Check the submission guidelines for the publication(s) you’re planning to submit to. Using real em-dashes (—) instead of hyphens (--) and “smart” quotes rather than "straight" quotes is a nice touch.
+- [ ] **Show it to at least five friends, and incorporate useful feedback in your next revision.** Early readers are precious; thank them and make them a cup of tea.
