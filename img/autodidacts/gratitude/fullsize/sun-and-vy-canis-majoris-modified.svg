@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Wikipedia User:Mysid
+     Creative Commons Attribution-Share Alike 3.0 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1254"
+   height="783"
+   id="svg41"
+   sodipodi:docname="Sun_and_VY_Canis_Majoris_modified.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1596"
+     inkscape:window-height="856"
+     id="namedview43"
+     showgrid="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="597.33436"
+     inkscape:cy="300.69527"
+     inkscape:window-x="2"
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg41" />
+  <defs
+     id="defs1903">
+    <linearGradient
+       id="linearGradient6400">
+      <stop
+         id="stop6402"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7397"
+         style="stop-color:#fffe82;stop-opacity:1"
+         offset="0.47562194" />
+      <stop
+         id="stop6408"
+         style="stop-color:#ffaf05;stop-opacity:1"
+         offset="0.85611951" />
+      <stop
+         id="stop6404"
+         style="stop-color:#ff5407;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="354.28571"
+       cy="398.07648"
+       r="320"
+       fx="354.28571"
+       fy="398.07648"
+       id="radialGradient6406"
+       xlink:href="#linearGradient6400"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.4285715,0.4949608)" />
+    <radialGradient
+       cx="354.28571"
+       cy="398.07648"
+       r="320"
+       fx="354.28571"
+       fy="398.07648"
+       id="radialGradient8400"
+       xlink:href="#linearGradient6400"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="354.28571"
+       cy="398.07648"
+       r="320"
+       fx="354.28571"
+       fy="398.07648"
+       id="radialGradient8438"
+       xlink:href="#linearGradient6400"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath8455">
+      <rect
+         width="132708.91"
+         height="86680.055"
+         x="-39022.379"
+         y="-55691.941"
+         id="rect8457"
+         style="fill:none;stroke:#ffffff;stroke-width:3.00;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;" />
+    </clipPath>
+    <clipPath
+       id="clipPath8459">
+      <rect
+         width="66.354454"
+         height="43.340027"
+         x="152.50291"
+         y="649.95184"
+         id="rect8461"
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;" />
+    </clipPath>
+    <clipPath
+       id="clipPath8463">
+      <rect
+         width="694.72681"
+         height="453.76727"
+         x="475.27808"
+         y="160.75797"
+         id="rect8465"
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;" />
+    </clipPath>
+    <filter
+       id="filter8481">
+      <feGaussianBlur
+         stdDeviation="0.5784724"
+         id="feGaussianBlur8483" />
+    </filter>
+    <filter
+       id="filter8489">
+      <feGaussianBlur
+         stdDeviation="6.4"
+         id="feGaussianBlur8491" />
+    </filter>
+  </defs>
+  <rect
+     width="1254.2856"
+     height="782.85712"
+     x="-3.7368775e-08"
+     y="1.508789e-08"
+     id="rect6426"
+     style="fill:#000000;stroke:none" />
+  <path
+     d="m 672.85714,398.57144 a 320,320 0 0 1 -640.000005,0 320,320 0 1 1 640.000005,0 z"
+     id="path5429"
+     style="fill:url(#radialGradient6406);stroke:none;filter:url(#filter8489)" />
+  <rect
+     width="1291.303"
+     height="805.96136"
+     x="406.5434785"
+     y="45.9155078"
+     clip-path="url(#clipPath8463)"
+     id="rect8440"
+     style="fill:#000000;stroke:none" />
+  <path
+     d="m 170.92267,678.4918 a 0.16,0.16 0 0 1 -0.32,0 0.16,0.16 0 1 1 0.32,0 z"
+     id="path7403"
+     style="fill:#fef200;stroke:none" />
+  <rect
+     width="66.354446"
+     height="43.340023"
+     x="151.07436"
+     y="650.44678"
+     id="rect8384"
+     style="fill:#ffffff;fill-opacity:0.27322406;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:41.5267868px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03816962"
+     x="229.00356"
+     y="385.02423"
+     id="text4682"><tspan
+       sodipodi:role="line"
+       x="229.00356"
+       y="385.02423"
+       id="tspan4684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.83214188px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.03816962">VY Canis</tspan><tspan
+       sodipodi:role="line"
+       x="229.00356"
+       y="447.31442"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.83214188px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.03816962"
+       id="tspan4688">Majoris</tspan></text>
+  <path
+     d="m 674.28571,398.07648 a 320,320 0 1 1 -640.000004,0 320,320 0 1 1 640.000004,0 z"
+     transform="matrix(10.469935,0,0,10.469935,-1122.8461,-6643.7008)"
+     clip-path="url(#clipPath8459)"
+     id="path8432"
+     style="fill:url(#radialGradient8438);stroke:none;filter:url(#filter8481)" />
+  <path
+     d="m 674.28571,398.07648 a 320,320 0 1 1 -640.000004,0 320,320 0 1 1 640.000004,0 z"
+     transform="matrix(0.00523497,0,0,0.00523497,678.13039,452.79843)"
+     clip-path="url(#clipPath8455)"
+     id="path8434"
+     style="fill:#fef200;stroke:none" />
+  <text
+     x="718.35956"
+     y="499.16577"
+     id="text8469"
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:center;line-height:125%;text-anchor:middle;fill:#faff90;stroke:none;font-family:DejaVu Sans;"><tspan
+       x="718.35956"
+       y="499.16577"
+       id="tspan8473"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Sun</tspan></text>
+  <path
+     d="m 674.28571,398.07648 a 320,320 0 1 1 -640.000004,0 320,320 0 1 1 640.000004,0 z"
+     transform="matrix(0.00523497,0,0,0.00523497,1655.89,255.39693)"
+     clip-path="url(#clipPath8455)"
+     id="path4719"
+     style="fill:#fef200;stroke:none" />
+  <path
+     d="m 616.66132,421.24551 a 260.29047,260.29047 0 1 1 -520.580937,0 260.29047,260.29047 0 1 1 520.580937,0 z"
+     transform="matrix(0.12486051,0,0,0.12486051,126.26602,625.89487)"
+     id="path4721"
+     style="opacity:0.81025642;fill:none;stroke:#a9a1ff;stroke-width:16.02;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:48.053624, 48.053624;" />
+  <path
+     d="M 546.3125,159.125 C 520.771,170.68626 496.99865,185.4377 475.5,202.90625 M 961.84375,615.8125 C 988.98283,568.38312 1004.5,513.43518 1004.5,454.875 c 0,-131.56226 -78.30828,-244.81125 -190.84375,-295.75"
+     id="path4723"
+     style="opacity:0.80512821;fill:none;stroke:#a9a1ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:10, 10;" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:44.1374321px;line-height:30.89620209px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:1.10343564"
+     x="1012.2748"
+     y="252.59715"
+     id="text4651"><tspan
+       sodipodi:role="line"
+       x="1016.3685"
+       y="252.59715"
+       id="tspan4653"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.89620209px;line-height:30.89620209px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:1.10343564">Earth’s </tspan><tspan
+       sodipodi:role="line"
+       x="1012.2748"
+       y="286.33356"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.89620209px;line-height:30.89620209px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:1.10343564"
+       id="tspan4657">orbit</tspan></text>
+  <rect
+     width="690.72968"
+     height="456.67773"
+     x="475.51483"
+     y="159.12895"
+     id="rect8467"
+     style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;" />
+</svg>
