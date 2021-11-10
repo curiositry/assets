@@ -180,11 +180,11 @@
        x="229.00356"
        y="385.02423"
        id="tspan4684"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.83214188px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.03816962">VY Canis</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.83214188px;font-family:'Fira Sans,PT Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.03816962">VY Canis</tspan><tspan
        sodipodi:role="line"
        x="229.00356"
        y="447.31442"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.83214188px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.03816962"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.83214188px;font-family:'Fira Sans,PT Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.03816962"
        id="tspan4688">Majoris</tspan></text>
   <path
      d="m 674.28571,398.07648 a 320,320 0 1 1 -640.000004,0 320,320 0 1 1 640.000004,0 z"
@@ -207,7 +207,7 @@
        x="718.35956"
        y="499.16577"
        id="tspan8473"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Sun</tspan></text>
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;font-family:'Fira Sans,PT Sans';-inkscape-font-specification:'Fira Sans'">Sun</tspan></text>
   <path
      d="m 674.28571,398.07648 a 320,320 0 1 1 -640.000004,0 320,320 0 1 1 640.000004,0 z"
      transform="matrix(0.00523497,0,0,0.00523497,1655.89,255.39693)"
@@ -233,11 +233,11 @@
        x="1016.3685"
        y="252.59715"
        id="tspan4653"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.89620209px;line-height:30.89620209px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:1.10343564">Earth’s </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.89620209px;line-height:30.89620209px;font-family:'Fira Sans,PT Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:1.10343564">Earth’s </tspan><tspan
        sodipodi:role="line"
        x="1012.2748"
        y="286.33356"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.89620209px;line-height:30.89620209px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:1.10343564"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.89620209px;line-height:30.89620209px;font-family:'Fira Sans,PT Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:1.10343564"
        id="tspan4657">orbit</tspan></text>
   <rect
      width="690.72968"
